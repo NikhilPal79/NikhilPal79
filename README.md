@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikhilPal79
-- 👀 I’m interested in DATA ANALYTICS 
-- 🌱 I’m currently learning Google Data Analytics Professional Certificate
+- 👀 I’m interested in DATA ANALYTICS && JAVA
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on POWER BI
 - 📫 How to reach me NIKHILCHPR7@GMAIL.COM
 - 😄 Pronouns: NIK
