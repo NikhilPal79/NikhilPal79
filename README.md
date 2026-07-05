@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Java<br>I am looking to collaborate on open-source projects on platforms like GitHub or GitLab, focusing on areas like web (Spring, Wicket), AI (Spring AI), big data, or mobile<br>I am looking for help with Kubernetes <br>I am currently learning ML<br>Ask me about Java/Spring/MySQL
+I am currently working on Java<br>I am looking to collaborate on open-source projects on platforms like GitHub or GitLab, focusing on areas like web (Spring), AI (Spring AI)<br>I am looking for help with Kubernetes <br>I am currently learning ML<br>Ask me about Java/Spring/MySQL
 
 
 ## 🌐 Socials:
